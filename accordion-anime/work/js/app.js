@@ -10,4 +10,4 @@ accordions.forEach(accordion=>{
       content.style.height = '0px';
     }
   });
-});
+}); 
